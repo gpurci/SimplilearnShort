@@ -1,0 +1,9 @@
+numpy
+pyyaml
+pandas
+livelossplot
+scikeras
+nltk
+scikit-learn
+imbalanced-learn
+xgboost
